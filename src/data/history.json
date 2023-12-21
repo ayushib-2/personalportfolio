@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Computing Intern",
+      "organisation": "Lawrence Livermore National Laboratory",
+      "startDate": "Jun, 2023",
+      "endDate": "Present",
+      "experiences": ["Built a data migration tool to trace UAS flight path", "Constructed a comprehensive dataset of military grade and commercial drone models through webscraping", "Employed computer vision ML tools, and CNNs to build a UAS model classifier achieving an accuracy of 98%."],
+      "imageSrc": "history/llnl.png"
+    },
+    {
+      "role": "Software Developer",
+      "organisation": "CodeLab",
+      "startDate": "Oct, 2022",
+      "endDate": "Jun, 2023",
+      "experiences": ["Orchestrated seamless CRUD routes, meticulously overseeing user object flow from registration to user authentication, and implemented robust email verification protocols, ensuring a fluid and secure end-to-end user experience for a MERN web app"],
+      "imageSrc": "history/codelab.png"
+    }
+  ]

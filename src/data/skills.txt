@@ -1,0 +1,7 @@
+Python (for data science & ML)
+C/C++
+MongoDB
+HTML
+CSS
+React
+Node

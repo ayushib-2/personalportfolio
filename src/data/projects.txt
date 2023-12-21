@@ -1,0 +1,7 @@
+Projects section of Portfolio
+
+1. Shortest path down mount st helens
+2. Connect 4 ai game
+3. Atari Pong Deep Learning
+4. Training Tool CodeLab
+5. Shell script
