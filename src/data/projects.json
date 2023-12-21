@@ -2,7 +2,7 @@
     {
       "title": "Shortest Path Down Mt. St. Helens",
       "imageSrc": "projects/helen.png",
-      "description": "Implemented the A* search algorithm and admissible heuristic functions to find the shortest path down Mt. Saint Helens from a certain elevation.",
+      "description": "I implemented the A* search algorithm and admissible heuristic functions to find the shortest path down Mt. Saint Helens from a certain elevation.",
       "skills": ["Python", "A* Search", "Admissible Heuristics"],
       "code": "https://colab.research.google.com/drive/14weGY4_gb5CKSWKt1Sj6kvlIwqgtkzYu?usp=sharing",
       "report": "https://drive.google.com/file/d/1hTOzjIZrdC0L131pGDX8J_n_IlgLldpM/view?usp=sharing"
@@ -10,7 +10,7 @@
     {
       "title": "Connect 4 AI",
       "imageSrc": "projects/connectfour.png",
-      "description": "Designed Alpha-Beta Pruning and Minimax-based algorithms to efficiently and competitively play the game of Connect-4  against other AI-based agents",
+      "description": "I designed Alpha-Beta Pruning and Minimax-based algorithms to efficiently and competitively play the game of Connect-4 against other AI-based agents.",
       "skills": ["AI Algorithms", "Game Development"],
       "code": "https://github.com/ayushib-2/connect4",
       "report": "https://drive.google.com/file/d/1pRMKN7b6jC67ckFOdhG9p33FOHQ2pCra/view?usp=sharing"
@@ -18,25 +18,31 @@
     {
       "title": "Deep Q-Learning Atari Pong",
       "imageSrc": "projects/pong.png",
-      "description": "Implemented and trained a deep learning model for playing Atari Pong using Deep Q-Learning by representing game states & actions and creating an objective function",
+      "description": "I implemented and trained a deep learning model for playing Atari Pong using Deep Q-Learning by representing game states & actions and creating an objective function.",
       "skills": ["Q-Learning", "Pytorch"],
       "code": "https://colab.research.google.com/drive/1BkaeLCrdOiM5jYsUCLBvO1crtwRvHqDE?usp=sharing",
-      "report": "https://www.github.com"
+      "report": "https://drive.google.com/file/d/1DnxEddQun4c4Zf24vndbNPN_mM3Y_ndP/view?usp=sharing"
     },
 
     {
         "title": "Coursera for CodeLab Org",
         "imageSrc": "projects/codelab.png",
-        "description": "Developed a MERN web application in a cross-functional team that houses training material for members of a student org to learn basic web development skills through courses and bootcamps",
+        "description": "I developed a MERN web application in a cross-functional team that houses training material for members of a student org to learn basic web development skills through courses, bootcamps, and a progress check.",
         "skills": ["React", "Node", "MongoDB", "Express", "REST APIs"],
         "report": "https://codelabdavis.medium.com/training-tool-a547c6d311a0"
     },
     {
         "title": "Shell Implementation",
         "imageSrc": "projects/project.png",
-        "description": "Built a shell that accepts input from the user in the form of command lines and executes them as jobs. It can understand built in commands as well as piping and output redirection",
+        "description": "My team of 2 built a shell that accepts input from the user in the form of command lines and executes them as jobs. It understands built-in commands as well as piping and output redirection.",
         "skills": ["C", "Operating Systems", "Shell Scripting"],
-        "code": "https://drive.google.com/file/d/1zJtYlofds3REZAQ293galOq3Gd7pM1_1/view?usp=sharing"
+        "code": "https://drive.google.com/drive/folders/1Lsm4ftpn7ZRDnRflXskoD6fokhOhXmJ1?usp=sharing"
+    }, 
+    {
+        "title": "Personal Website",
+        "imageSrc": "projects/pw.png",
+        "description": "I built a responsive portfolio website from scratch using react, css, and figma, utilizing JSON for seamless content management. It will be continuously enhanced as more skills, projects, and animation interests are acquired.",
+        "skills": ["React", "CSS", "Responsive Design"],
+        "code": "https://github.com/ayushib-2/personalportfolio"
     }
-
  ]
