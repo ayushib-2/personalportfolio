@@ -17,27 +17,24 @@ export const About = () => {
             <li className={styles.aboutItem}>
                 <img src={getImageUrl("about/cursorIcon.png")} alt= "Cursor icon"/>
                 <div className={styles.aboutItemText}>
-                    <h3>Frontend Developer</h3>
                     <p>
-                        I'm a frontend dev blah blah I love coding yey
+                        I'm currently a Computing Intern @ the Lawrence Livermore National Laboratory. 
                     </p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
-                <img src={getImageUrl("about/serverIcon.png")} alt= "Server icon"/>
+                <img src={getImageUrl("about/cursorIcon.png")} alt= "Cursor icon"/>
                 <div className={styles.aboutItemText}>
-                    <h3>Backend Developer</h3>
                     <p>
-                    I can also do backend lol but i wanna be better
+                    I'm an aspiring Software/Data Engineer with experience in full stack development, computer vision, and AI/deep learning concepts. I am dedicated to leaving a lasting creative imprint through the realm of software development.
                     </p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
                 <img src={getImageUrl("about/cursorIcon.png")} alt= "UI icon"/>
                 <div className={styles.aboutItemText}>
-                    <h3>UI Designer</h3>
                     <p>
-                        I wish I was a designer omg
+                        When I'm not coding, I enjoy dancing, reading about new scientific developments, and going on nature hikes.
                     </p>
                 </div>
             </li>
