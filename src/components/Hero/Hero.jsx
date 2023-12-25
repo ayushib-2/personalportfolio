@@ -8,7 +8,7 @@ export const Hero = () => {
     <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ayushi.</h1>
         <p className={styles.description}>
-            I'm a 4th year Computer Science student @ UC Davis with a strong interest in Computer Vision, AI, and Cybersecurity. Reach out if you'd like to get to know me better!
+            I'm a 4th year Computer Science student @ UC Davis with a strong interest in Computer Vision, AI, and Cybersecurity.
         </p>
         <a href="mailto:aybhatnagar@ucdavis.edu" className={styles.contactBtn}>Contact Me</a>
     </div>
